@@ -98,7 +98,7 @@ A Geometric Progression (GP) is a sequence of numbers where each term after the 
 
 The n-th term of a GP can be calculated using the formula:
 
-`Tn = a * r^(n-1)
+`Tn = a * r^(n-1)/n-1
 `
 
 Where:
